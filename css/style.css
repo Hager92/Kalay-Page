@@ -74,13 +74,6 @@ body {
 /* media query home*/
 @media (max-width:768px) {
 
-    .home {
-        height: 60vh;
-        background-size: contain;
-        background-attachment: scroll;
-        background-position: center;
-    }
-
     .home .home-text h2 {
         font-size: 24px;
     }
